@@ -1,42 +1,41 @@
-# 🌍  Planner
+# 🌍 Planner
 
-Bem-vindo ao **Planner**! Este é um site simples e intuitivo de planejamento de viagens, desenvolvido com HTML, CSS e JavaScript.
+Welcome to **Planner**! This is a simple and intuitive travel planning website, developed with HTML, CSS and JavaScript.
 
-## ✨ Funcionalidades
+## ✨ Features
 
-- 📅 **Planejamento de Itinerário**: Organize seu itinerário de viagem dia a dia.
-- 📝 **Lista de Tarefas**: Adicione e gerencie tarefas que precisam ser realizadas antes e durante a viagem.
+- 📅 **Itinerary Planning**: Organize your travel itinerary day by day.
+- 📝 **To-Do List**: Add and manage tasks that need to be done before and during the trip.
 
+## 🛠️ Technologies Used
 
-## 🛠️ Tecnologias Utilizadas
+- 🏷️ **HTML5**: Basic structure of the website.
+- 🎨 **CSS3**: Styling and responsive layout.
+- 🖥️ **JavaScript**: Interactive features and data manipulation.
 
-- 🏷️ **HTML5**: Estrutura básica do site.
-- 🎨 **CSS3**: Estilização e layout responsivo.
-- 🖥️ **JavaScript**: Funcionalidades interativas e manipulação de dados.
+## 🚀 How to Use
 
-## 🚀 Como Usar
+1. Clone this repository to your computer:
+```sh
+git clone https://github.com/noejunior299/planner.git
+```
+2. Navigate to the project folder:
+```sh
+cd planner
+```
+3. Open the `index.html` file in your preferred web browser.
 
-1. Clone este repositório para o seu computador:
-    ```sh
-    git clone https://github.com/noejunior299/planner.git
-    ```
-2. Navegue até a pasta do projeto:
-    ```sh
-    cd planner
-    ```
-3. Abra o arquivo `index.html` em seu navegador preferido.
-
-## 📂 Estrutura do Projeto
+## 📂 Project Structure
 
 ```sh
 planner/
 ├── assets/
-│   ├── screenshots/
-│   │   ├── image.png
+│ ├── screenshots/
+│ │ ├── image.png
 ├── css/
-│   └── style.css
+│ └── style.css
 ├── js/
-│   └── script.js
+│ └── script.js
 ├── index.html
 └── README.md
 
@@ -45,14 +44,11 @@ planner/
 
 <img src="/assets/screenshots/image.png">
 
+## 🤝 Contribution
+**If you want to contribute to this project**, feel free to open an issue or submit a pull request. All contributions are welcome!
 
-## 🤝 Contribuição
-   **Se você quiser contribuir para este projeto**, sinta-se à vontade para abrir uma issue ou enviar um pull request. Todas as contribuições são bem-vindas!
-
-  - 1.Faça um fork do projeto.
-  - 2.Crie uma nova branch (git checkout -b feature/nova-funcionalidade). 
-  - 3.Faça suas alterações e commit (git commit -am 'Adiciona nova funcionalidade').
-  - 4.Faça push para a branch (git push origin feature/nova-funcionalidade).
-  - 5.Abra um pull request.
-
-
+- 1. Fork the project.
+- 2. Create a new branch (git checkout -b feature).
+- 3. Make your changes and commit (git commit -am 'Add new feature').
+- 4. Push to the branch (git push origin feature).
+- 5. Open a pull request.
